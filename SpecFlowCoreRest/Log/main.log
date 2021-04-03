@@ -1,0 +1,9 @@
+2021-03-31 12:23:02,362 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - Hello logging world!
+2021-03-31 13:17:42,665 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - Hello logging world!
+2021-03-31 13:17:42,678 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - {"user":"","email":"","culture":"en-US","timezone":"America"}
+2021-03-31 13:25:19,765 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - Hello logging world!
+2021-03-31 13:25:19,779 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - {"culture":"en-US","timezone":"America"}
+2021-04-02 18:06:40,113 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - Hello logging world!
+2021-04-02 18:06:40,127 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - {"culture":"en-US","timezone":"America"}
+2021-04-03 13:29:26,384 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - Hello logging world!
+2021-04-03 13:29:26,395 [NonParallelWorker] INFO SpecFlowCoreRest.Steps.CalculatorStepDefinitions - {"culture":"en-US","timezone":"America"}
